@@ -2,7 +2,7 @@
 
 **A voice-first AI assistant for farmers.** Ask a farming question in **Hindi, Marathi or English** and hear the answer spoken back. It can also check a crop leaf for disease and tell you today's weather.
 
-> Final-year B.Tech Data Science project (Palloti Project 2).
+> Final-year B.Tech Data Science project .
 
 ---
 
