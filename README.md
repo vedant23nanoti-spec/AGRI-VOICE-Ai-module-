@@ -36,8 +36,7 @@
 ## 🚀 Quick start
 1. **Clone**
 ```bash
-   git clone https://github.com/<your-username>/agri-voice.git
-   cd agri-voice
+   (https://github.com/vedant23nanoti-spec/AGRI-VOICE-Ai-module-)
 ```
 2. **Install Ollama** from [ollama.com](https://ollama.com), then:
 ```bash
