@@ -1,0 +1,34 @@
+_# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Audio generated during testing
+audio/*.wav
+audio/*.mp3
+*.wav
+*.mp3
+
+# Local database
+db/
+
+# Downloaded ML models
+models/
+
+# Agricultural PDFs
+data/pdfs/
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
